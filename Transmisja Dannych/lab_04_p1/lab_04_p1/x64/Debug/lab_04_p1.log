@@ -1,0 +1,5 @@
+﻿  lab_04_p1.cpp
+C:\Transmisja Dannych\lab_04_p1\lab_04_p1\lab_04_p1.cpp(21,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\lab_04_p1\lab_04_p1\lab_04_p1.cpp(31,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\lab_04_p1\lab_04_p1\lab_04_p1.cpp(41,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  lab_04_p1.vcxproj -> C:\Transmisja Dannych\lab_04_p1\x64\Debug\lab_04_p1.exe

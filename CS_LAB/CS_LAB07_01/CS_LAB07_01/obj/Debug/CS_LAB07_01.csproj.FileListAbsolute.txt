@@ -1,0 +1,10 @@
+C:\CS_LAB\CS_LAB07_01\CS_LAB07_01\bin\Debug\CS_LAB07_01.exe.config
+C:\CS_LAB\CS_LAB07_01\CS_LAB07_01\bin\Debug\CS_LAB07_01.exe
+C:\CS_LAB\CS_LAB07_01\CS_LAB07_01\bin\Debug\CS_LAB07_01.pdb
+C:\CS_LAB\CS_LAB07_01\CS_LAB07_01\obj\Debug\CS_LAB07_01.csproj.AssemblyReference.cache
+C:\CS_LAB\CS_LAB07_01\CS_LAB07_01\obj\Debug\CS_LAB07_01.Form1.resources
+C:\CS_LAB\CS_LAB07_01\CS_LAB07_01\obj\Debug\CS_LAB07_01.Properties.Resources.resources
+C:\CS_LAB\CS_LAB07_01\CS_LAB07_01\obj\Debug\CS_LAB07_01.csproj.GenerateResource.cache
+C:\CS_LAB\CS_LAB07_01\CS_LAB07_01\obj\Debug\CS_LAB07_01.csproj.CoreCompileInputs.cache
+C:\CS_LAB\CS_LAB07_01\CS_LAB07_01\obj\Debug\CS_LAB07_01.exe
+C:\CS_LAB\CS_LAB07_01\CS_LAB07_01\obj\Debug\CS_LAB07_01.pdb

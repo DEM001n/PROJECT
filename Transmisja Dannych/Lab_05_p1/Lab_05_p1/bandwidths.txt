@@ -1,0 +1,52 @@
+wnioski:
+Dla modulacji AM metoda ta okazuje sie malo efektywna, poniewaz w wiekszosci przypadkow nawet poziom -10 dB nie jest wystarczajacy, aby osiegnac komponentow sygna³u po modulacji. Wynika to z bardzo silnej skladowej nosnej znajdujacej sie w centrum widma.
+Przypadki, w ktorych udaje siê poprawnie okreslic szerokosc pasma, pojawiaja sie tylko wtedy, gdy energia sygna³u znajduje sie powy¿ej centralnej skladowej — jednak sa to sytuacje nietypowe i odpowiadaja slabo zamodulowanym sygnalom.
+Dla modulacji PM mo¿na zauwazyc, ze metoda ta dziala znacznie lepiej — wyznaczone szerokosci pasma sa spójne i znajduja sie w logicznych granicach, szczegolnie w porownaniu do wynikow dla AM.
+Dla modulacji FM widac bardzo s³abe wyniki. Skutecznoœæ tej metody w przypadku FM silnie zalezy od pocz¹tkowych parametrow sygnalu. Przy odpowiednio niskiej czestotliwosci modulujacej lub bardzo duzym wspolczynniku modulacji, wyniki moga przypominac te z PM.
+Jednak w sytuacjach, gdy dane poczatkowe sa nieoptymalne (jak w naszym przypadku), centralny pik nosnej jest tak silny, ¿e wartosci sygnalu po modulacji sa zbyt slabe, by osiagnac nawet poziom - 10 dB, przez co nie sa uwzgledniane w analizie.
+
+AM ka=0.5:
+  B3dB  = 0 Hz
+  B6dB  = 0 Hz
+  B10dB = 100 Hz
+
+AM ka=7:
+  B3dB  = 100 Hz
+  B6dB  = 100 Hz
+  B10dB = 100 Hz
+
+AM ka=40:
+  B3dB  = 100 Hz
+  B6dB  = 100 Hz
+  B10dB = 100 Hz
+
+PM kp=PI/4:
+  B3dB  = 0 Hz
+  B6dB  = 100 Hz
+  B10dB = 100 Hz
+
+PM kp=PI/2:
+  B3dB  = 100 Hz
+  B6dB  = 200 Hz
+  B10dB = 300 Hz
+
+PM kp=4PI:
+  B3dB  = 1300 Hz
+  B6dB  = 1400 Hz
+  B10dB = 1500 Hz
+
+FM kf=PI/4:
+  B3dB  = 0 Hz
+  B6dB  = 0 Hz
+  B10dB = 0 Hz
+
+FM kf=PI/2:
+  B3dB  = 0 Hz
+  B6dB  = 0 Hz
+  B10dB = 0 Hz
+
+FM kf=4PI:
+  B3dB  = 0 Hz
+  B6dB  = 0 Hz
+  B10dB = 100 Hz
+

@@ -1,0 +1,8 @@
+﻿  Lab_03.cpp
+C:\Transmisja Dannych\Lab_03\Lab_03\Lab_03.cpp(12,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\Lab_03\Lab_03\Lab_03.cpp(42,39): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\Lab_03\Lab_03\Lab_03.cpp(208,83): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\Lab_03\Lab_03\Lab_03.cpp(209,83): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\Lab_03\Lab_03\Lab_03.cpp(210,79): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  Lab_03.vcxproj -> C:\Transmisja Dannych\Lab_03\x64\Debug\Lab_03.exe
+  0 File(s) copied

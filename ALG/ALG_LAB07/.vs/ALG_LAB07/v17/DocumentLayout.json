@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ALG\\ALG_LAB07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9948BD74-111A-419E-9054-A6931A131EC3}|ALG_LAB07\\ALG_LAB07.vcxproj|C:\\ALG\\ALG_LAB07\\ALG_LAB07\\ALG_LAB07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9948BD74-111A-419E-9054-A6931A131EC3}|ALG_LAB07\\ALG_LAB07.vcxproj|solutionrelative:ALG_LAB07\\ALG_LAB07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9948BD74-111A-419E-9054-A6931A131EC3}|ALG_LAB07\\ALG_LAB07.vcxproj|C:\\ALG\\ALG_LAB07\\ALG_LAB07\\MaxHeap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9948BD74-111A-419E-9054-A6931A131EC3}|ALG_LAB07\\ALG_LAB07.vcxproj|solutionrelative:ALG_LAB07\\MaxHeap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9948BD74-111A-419E-9054-A6931A131EC3}|ALG_LAB07\\ALG_LAB07.vcxproj|C:\\ALG\\ALG_LAB07\\ALG_LAB07\\MaxHeap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9948BD74-111A-419E-9054-A6931A131EC3}|ALG_LAB07\\ALG_LAB07.vcxproj|solutionrelative:ALG_LAB07\\MaxHeap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaxHeap.h",
+              "DocumentMoniker": "C:\\ALG\\ALG_LAB07\\ALG_LAB07\\MaxHeap.h",
+              "RelativeDocumentMoniker": "ALG_LAB07\\MaxHeap.h",
+              "ToolTip": "C:\\ALG\\ALG_LAB07\\ALG_LAB07\\MaxHeap.h",
+              "RelativeToolTip": "ALG_LAB07\\MaxHeap.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvzcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T15:09:15.047Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaxHeap.cpp",
+              "DocumentMoniker": "C:\\ALG\\ALG_LAB07\\ALG_LAB07\\MaxHeap.cpp",
+              "RelativeDocumentMoniker": "ALG_LAB07\\MaxHeap.cpp",
+              "ToolTip": "C:\\ALG\\ALG_LAB07\\ALG_LAB07\\MaxHeap.cpp",
+              "RelativeToolTip": "ALG_LAB07\\MaxHeap.cpp",
+              "ViewState": "AQIAAKIAAAAAAAAAAADwv8oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T15:11:07.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ALG_LAB07.cpp",
+              "DocumentMoniker": "C:\\ALG\\ALG_LAB07\\ALG_LAB07\\ALG_LAB07.cpp",
+              "RelativeDocumentMoniker": "ALG_LAB07\\ALG_LAB07.cpp",
+              "ToolTip": "C:\\ALG\\ALG_LAB07\\ALG_LAB07\\ALG_LAB07.cpp",
+              "RelativeToolTip": "ALG_LAB07\\ALG_LAB07.cpp",
+              "ViewState": "AQIAALsAAAAAAAAAAADwv+MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T15:08:59.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

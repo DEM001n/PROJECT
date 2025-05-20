@@ -1,0 +1,14 @@
+C:\CS_LAB\CS_LAB12\CS_LAB12\bin\Debug\CS_LAB12.exe.config
+C:\CS_LAB\CS_LAB12\CS_LAB12\bin\Debug\CS_LAB12.exe
+C:\CS_LAB\CS_LAB12\CS_LAB12\bin\Debug\CS_LAB12.pdb
+C:\CS_LAB\CS_LAB12\CS_LAB12\bin\Debug\CS_LIBRARY12.dll
+C:\CS_LAB\CS_LAB12\CS_LAB12\bin\Debug\CS_LIBRARY12.pdb
+C:\CS_LAB\CS_LAB12\CS_LAB12\obj\Debug\CS_LAB12.csproj.AssemblyReference.cache
+C:\CS_LAB\CS_LAB12\CS_LAB12\obj\Debug\CS_LAB12.Form1.resources
+C:\CS_LAB\CS_LAB12\CS_LAB12\obj\Debug\CS_LAB12.Properties.Resources.resources
+C:\CS_LAB\CS_LAB12\CS_LAB12\obj\Debug\CS_LAB12.csproj.GenerateResource.cache
+C:\CS_LAB\CS_LAB12\CS_LAB12\obj\Debug\CS_LAB12.csproj.CoreCompileInputs.cache
+C:\CS_LAB\CS_LAB12\CS_LAB12\obj\Debug\CS_LAB12.csproj.Up2Date
+C:\CS_LAB\CS_LAB12\CS_LAB12\obj\Debug\CS_LAB12.exe
+C:\CS_LAB\CS_LAB12\CS_LAB12\obj\Debug\CS_LAB12.pdb
+C:\CS_LAB\CS_LAB12\CS_LAB12\obj\Debug\CS_LAB10.Form1.resources

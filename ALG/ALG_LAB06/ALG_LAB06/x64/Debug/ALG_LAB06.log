@@ -1,0 +1,5 @@
+﻿  ALG_LAB06.cpp
+  MaxHeap.cpp
+C:\ALG\ALG_LAB06\ALG_LAB06\MaxHeap.cpp(43,15): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+  ALG_LAB06.vcxproj -> C:\ALG\ALG_LAB06\x64\Debug\ALG_LAB06.exe

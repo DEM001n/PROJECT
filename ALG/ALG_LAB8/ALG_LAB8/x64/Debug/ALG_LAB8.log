@@ -1,0 +1,4 @@
+﻿  ALG_LAB8.cpp
+C:\ALG\ALG_LAB8\ALG_LAB8\ALG_LAB8.cpp(155,40): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\ALG\ALG_LAB8\ALG_LAB8\ALG_LAB8.cpp(158,59): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  ALG_LAB8.vcxproj -> C:\ALG\ALG_LAB8\x64\Debug\ALG_LAB8.exe

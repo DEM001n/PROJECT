@@ -1,0 +1,9 @@
+C:\CS_LAB\CS_LAB11\CS_LAB11\bin\Debug\CS_LAB11.exe.config
+C:\CS_LAB\CS_LAB11\CS_LAB11\bin\Debug\CS_LAB11.exe
+C:\CS_LAB\CS_LAB11\CS_LAB11\bin\Debug\CS_LAB11.pdb
+C:\CS_LAB\CS_LAB11\CS_LAB11\obj\Debug\CS_LAB11.csproj.AssemblyReference.cache
+C:\CS_LAB\CS_LAB11\CS_LAB11\obj\Debug\CS_LAB11.Properties.Resources.resources
+C:\CS_LAB\CS_LAB11\CS_LAB11\obj\Debug\CS_LAB11.csproj.GenerateResource.cache
+C:\CS_LAB\CS_LAB11\CS_LAB11\obj\Debug\CS_LAB11.csproj.CoreCompileInputs.cache
+C:\CS_LAB\CS_LAB11\CS_LAB11\obj\Debug\CS_LAB11.exe
+C:\CS_LAB\CS_LAB11\CS_LAB11\obj\Debug\CS_LAB11.pdb

@@ -1,0 +1,6 @@
+﻿  Deque.cpp
+C:\ALG\algo\algo\Deque.cpp(31,5): warning C4984: „if constexpr” jest rozszerzeniem języka C++17
+C:\ALG\algo\algo\Deque.cpp(35,10): warning C4984: „if constexpr” jest rozszerzeniem języka C++17
+  algo.cpp
+  Generowanie kodu...
+  algo.vcxproj -> C:\ALG\algo\x64\Debug\algo.exe

@@ -1,0 +1,16 @@
+I:\CS_LAB\CS_LAB04\CS_LAB04\bin\Debug\net5.0\CS_LAB04.exe
+I:\CS_LAB\CS_LAB04\CS_LAB04\bin\Debug\net5.0\CS_LAB04.deps.json
+I:\CS_LAB\CS_LAB04\CS_LAB04\bin\Debug\net5.0\CS_LAB04.runtimeconfig.json
+I:\CS_LAB\CS_LAB04\CS_LAB04\bin\Debug\net5.0\CS_LAB04.runtimeconfig.dev.json
+I:\CS_LAB\CS_LAB04\CS_LAB04\bin\Debug\net5.0\CS_LAB04.dll
+I:\CS_LAB\CS_LAB04\CS_LAB04\bin\Debug\net5.0\ref\CS_LAB04.dll
+I:\CS_LAB\CS_LAB04\CS_LAB04\bin\Debug\net5.0\CS_LAB04.pdb
+I:\CS_LAB\CS_LAB04\CS_LAB04\obj\Debug\net5.0\CS_LAB04.csproj.AssemblyReference.cache
+I:\CS_LAB\CS_LAB04\CS_LAB04\obj\Debug\net5.0\CS_LAB04.GeneratedMSBuildEditorConfig.editorconfig
+I:\CS_LAB\CS_LAB04\CS_LAB04\obj\Debug\net5.0\CS_LAB04.AssemblyInfoInputs.cache
+I:\CS_LAB\CS_LAB04\CS_LAB04\obj\Debug\net5.0\CS_LAB04.AssemblyInfo.cs
+I:\CS_LAB\CS_LAB04\CS_LAB04\obj\Debug\net5.0\CS_LAB04.csproj.CoreCompileInputs.cache
+I:\CS_LAB\CS_LAB04\CS_LAB04\obj\Debug\net5.0\CS_LAB04.dll
+I:\CS_LAB\CS_LAB04\CS_LAB04\obj\Debug\net5.0\ref\CS_LAB04.dll
+I:\CS_LAB\CS_LAB04\CS_LAB04\obj\Debug\net5.0\CS_LAB04.pdb
+I:\CS_LAB\CS_LAB04\CS_LAB04\obj\Debug\net5.0\CS_LAB04.genruntimeconfig.cache

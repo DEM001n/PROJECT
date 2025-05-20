@@ -1,0 +1,16 @@
+
+ASK:
+  B3dB  = 0 Hz
+  B6dB  = 0 Hz
+  B10dB = 16 Hz
+
+FSK:
+  B3dB  = 20 Hz
+  B6dB  = 20 Hz
+  B10dB = 44 Hz
+
+PSK:
+  B3dB  = 24 Hz
+  B6dB  = 48 Hz
+  B10dB = 84 Hz
+

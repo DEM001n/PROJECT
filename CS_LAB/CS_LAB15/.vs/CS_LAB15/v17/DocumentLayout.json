@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CS_LAB\\CS_LAB15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{808D3FF2-0053-45EB-9177-B438EB06C04F}|Classic Snakes Game Tutorial - MOO ICT\\CS_LAB15.csproj|c:\\cs_lab\\cs_lab15\\classic snakes game tutorial - moo ict\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808D3FF2-0053-45EB-9177-B438EB06C04F}|Classic Snakes Game Tutorial - MOO ICT\\CS_LAB15.csproj|solutionrelative:classic snakes game tutorial - moo ict\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808D3FF2-0053-45EB-9177-B438EB06C04F}|Classic Snakes Game Tutorial - MOO ICT\\CS_LAB15.csproj|C:\\CS_LAB\\CS_LAB15\\classic snakes game tutorial - moo ict\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{808D3FF2-0053-45EB-9177-B438EB06C04F}|Classic Snakes Game Tutorial - MOO ICT\\CS_LAB15.csproj|solutionrelative:classic snakes game tutorial - moo ict\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\CS_LAB\\CS_LAB15\\Classic Snakes Game Tutorial - MOO ICT\\Form1.cs",
+              "RelativeDocumentMoniker": "Classic Snakes Game Tutorial - MOO ICT\\Form1.cs",
+              "ToolTip": "C:\\CS_LAB\\CS_LAB15\\Classic Snakes Game Tutorial - MOO ICT\\Form1.cs",
+              "RelativeToolTip": "Classic Snakes Game Tutorial - MOO ICT\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:37:53.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\CS_LAB\\CS_LAB15\\Classic Snakes Game Tutorial - MOO ICT\\Form1.cs",
+              "RelativeDocumentMoniker": "Classic Snakes Game Tutorial - MOO ICT\\Form1.cs",
+              "ToolTip": "C:\\CS_LAB\\CS_LAB15\\Classic Snakes Game Tutorial - MOO ICT\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Classic Snakes Game Tutorial - MOO ICT\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:38:41.751Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

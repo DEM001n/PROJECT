@@ -1,0 +1,4 @@
+﻿  ALG_LAB07.cpp
+C:\ALG\ALG_LAB07\ALG_LAB07\ALG_LAB07.cpp(53,2): warning C4984: „if constexpr” jest rozszerzeniem języka C++17
+C:\ALG\ALG_LAB07\ALG_LAB07\ALG_LAB07.cpp(56,7): warning C4984: „if constexpr” jest rozszerzeniem języka C++17
+  ALG_LAB07.vcxproj -> C:\ALG\ALG_LAB07\x64\Debug\ALG_LAB07.exe

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Transmisja Dannych\\Lab_08_p2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC79CA7D-84C5-49D9-9DC8-728F16E5393A}|Lab_08_p2\\Lab_08_p2.vcxproj|C:\\Transmisja Dannych\\Lab_08_p2\\Lab_08_p2\\Lab_08_p2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC79CA7D-84C5-49D9-9DC8-728F16E5393A}|Lab_08_p2\\Lab_08_p2.vcxproj|solutionrelative:Lab_08_p2\\Lab_08_p2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_08_p2.cpp",
+              "DocumentMoniker": "C:\\Transmisja Dannych\\Lab_08_p2\\Lab_08_p2\\Lab_08_p2.cpp",
+              "RelativeDocumentMoniker": "Lab_08_p2\\Lab_08_p2.cpp",
+              "ToolTip": "C:\\Transmisja Dannych\\Lab_08_p2\\Lab_08_p2\\Lab_08_p2.cpp",
+              "RelativeToolTip": "Lab_08_p2\\Lab_08_p2.cpp",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAowLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T14:58:32.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

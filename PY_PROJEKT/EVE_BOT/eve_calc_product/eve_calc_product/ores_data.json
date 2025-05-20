@@ -1,0 +1,29 @@
+[
+    {
+        "ore_id": 1228,
+        "ore_name": "Scordite",
+        "minerals": [
+            {
+                "mineral_id": 34,
+                "mineral_name": "Tritanium",
+                "quantity": 3386
+            },
+            {
+                "mineral_id": 35,
+                "mineral_name": "Pyerite",
+                "quantity": 603
+            }
+        ]
+    },
+    {
+        "ore_id": 1230,
+        "ore_name": "Veldspar",
+        "minerals": [
+            {
+                "mineral_id": 34,
+                "mineral_name": "Tritanium",
+                "quantity": 4000
+            }
+        ]
+    }
+]

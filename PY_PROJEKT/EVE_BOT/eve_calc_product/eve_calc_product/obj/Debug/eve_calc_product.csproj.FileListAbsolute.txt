@@ -1,0 +1,13 @@
+C:\PY_PROJEKT\EVE_BOT\eve_calc_product\eve_calc_product\bin\Debug\eve_calc_product.exe.config
+C:\PY_PROJEKT\EVE_BOT\eve_calc_product\eve_calc_product\bin\Debug\eve_calc_product.exe
+C:\PY_PROJEKT\EVE_BOT\eve_calc_product\eve_calc_product\bin\Debug\eve_calc_product.pdb
+C:\PY_PROJEKT\EVE_BOT\eve_calc_product\eve_calc_product\bin\Debug\Newtonsoft.Json.dll
+C:\PY_PROJEKT\EVE_BOT\eve_calc_product\eve_calc_product\bin\Debug\Newtonsoft.Json.xml
+C:\PY_PROJEKT\EVE_BOT\eve_calc_product\eve_calc_product\obj\Debug\eve_calc_product.csproj.AssemblyReference.cache
+C:\PY_PROJEKT\EVE_BOT\eve_calc_product\eve_calc_product\obj\Debug\eve_calc_product.Form1.resources
+C:\PY_PROJEKT\EVE_BOT\eve_calc_product\eve_calc_product\obj\Debug\eve_calc_product.Properties.Resources.resources
+C:\PY_PROJEKT\EVE_BOT\eve_calc_product\eve_calc_product\obj\Debug\eve_calc_product.csproj.GenerateResource.cache
+C:\PY_PROJEKT\EVE_BOT\eve_calc_product\eve_calc_product\obj\Debug\eve_calc_product.csproj.CoreCompileInputs.cache
+C:\PY_PROJEKT\EVE_BOT\eve_calc_product\eve_calc_product\obj\Debug\eve_calc.FAD886E9.Up2Date
+C:\PY_PROJEKT\EVE_BOT\eve_calc_product\eve_calc_product\obj\Debug\eve_calc_product.exe
+C:\PY_PROJEKT\EVE_BOT\eve_calc_product\eve_calc_product\obj\Debug\eve_calc_product.pdb

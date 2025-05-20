@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Transmisja Dannych\\Lab08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BEA13A-0DDA-4364-AE11-B2499B0677BA}|Lab08\\Lab08.vcxproj|C:\\Transmisja Dannych\\Lab08\\Lab08\\Lab08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2BEA13A-0DDA-4364-AE11-B2499B0677BA}|Lab08\\Lab08.vcxproj|solutionrelative:Lab08\\Lab08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab08.cpp",
+              "DocumentMoniker": "C:\\Transmisja Dannych\\Lab08\\Lab08\\Lab08.cpp",
+              "RelativeDocumentMoniker": "Lab08\\Lab08.cpp",
+              "ToolTip": "C:\\Transmisja Dannych\\Lab08\\Lab08\\Lab08.cpp",
+              "RelativeToolTip": "Lab08\\Lab08.cpp",
+              "ViewState": "AgIAANEAAAAAAAAAAAAUwOEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T14:06:14.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

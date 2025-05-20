@@ -1,0 +1,4 @@
+
+ASK: B' = 52 Hz
+FSK: B' = 22 Hz
+PSK: B' = 54 Hz

@@ -1,0 +1,14 @@
+C:\CS_LAB04-05\CS_LAB04-05\bin\Debug\net8.0\CS_LAB04-05.exe
+C:\CS_LAB04-05\CS_LAB04-05\bin\Debug\net8.0\CS_LAB04-05.deps.json
+C:\CS_LAB04-05\CS_LAB04-05\bin\Debug\net8.0\CS_LAB04-05.runtimeconfig.json
+C:\CS_LAB04-05\CS_LAB04-05\bin\Debug\net8.0\CS_LAB04-05.dll
+C:\CS_LAB04-05\CS_LAB04-05\bin\Debug\net8.0\CS_LAB04-05.pdb
+C:\CS_LAB04-05\CS_LAB04-05\obj\Debug\net8.0\CS_LAB04-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS_LAB04-05\CS_LAB04-05\obj\Debug\net8.0\CS_LAB04-05.AssemblyInfoInputs.cache
+C:\CS_LAB04-05\CS_LAB04-05\obj\Debug\net8.0\CS_LAB04-05.AssemblyInfo.cs
+C:\CS_LAB04-05\CS_LAB04-05\obj\Debug\net8.0\CS_LAB04-05.csproj.CoreCompileInputs.cache
+C:\CS_LAB04-05\CS_LAB04-05\obj\Debug\net8.0\CS_LAB04-05.dll
+C:\CS_LAB04-05\CS_LAB04-05\obj\Debug\net8.0\refint\CS_LAB04-05.dll
+C:\CS_LAB04-05\CS_LAB04-05\obj\Debug\net8.0\CS_LAB04-05.pdb
+C:\CS_LAB04-05\CS_LAB04-05\obj\Debug\net8.0\CS_LAB04-05.genruntimeconfig.cache
+C:\CS_LAB04-05\CS_LAB04-05\obj\Debug\net8.0\ref\CS_LAB04-05.dll

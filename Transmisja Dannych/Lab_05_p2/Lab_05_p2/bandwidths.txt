@@ -1,0 +1,13 @@
+wnioski:
+Ta metoda okazala sie znacznie lepsza niz poprzednia. Chociaz wymaga bardziej z³ozonych obliczen, poprawnie wyznaczyla szerokosc pasma dla kazdego z analizowanych sygnalow.Dzieki specyfice tego podejscia, wynik jest mniej wrazliwy na bardzo duze wartosci w widmu (co by³o jednym z problemow poprzedniej metody)
+Metoda ta jest rowniez bardziej niezawodna, poniewaz gwarantuje, ze w wyznaczonej szerokoœci pasma zawarte N% mocy sygnalu.
+
+AM ka=0.5: B' = 100 Hz
+AM ka=7: B' = 100 Hz
+AM ka=40: B' = 100 Hz
+PM kp=PI/4: B' = 600 Hz
+PM kp=PI/2: B' = 700 Hz
+PM kp=4PI: B' = 1700 Hz
+FM kf=PI/4: B' = 200 Hz
+FM kf=PI/2: B' = 200 Hz
+FM kf=4PI: B' = 400 Hz

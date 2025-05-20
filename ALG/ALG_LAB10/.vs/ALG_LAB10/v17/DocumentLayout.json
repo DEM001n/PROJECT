@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ALG\\ALG_LAB10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{057136A5-8668-44C7-B8C0-BF4EE3B2DEA9}|ALG_LAB10\\ALG_LAB10.vcxproj|C:\\ALG\\ALG_LAB10\\ALG_LAB10\\ALG_LAB10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{057136A5-8668-44C7-B8C0-BF4EE3B2DEA9}|ALG_LAB10\\ALG_LAB10.vcxproj|solutionrelative:ALG_LAB10\\ALG_LAB10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ALG_LAB10.cpp",
+              "DocumentMoniker": "C:\\ALG\\ALG_LAB10\\ALG_LAB10\\ALG_LAB10.cpp",
+              "RelativeDocumentMoniker": "ALG_LAB10\\ALG_LAB10.cpp",
+              "ToolTip": "C:\\ALG\\ALG_LAB10\\ALG_LAB10\\ALG_LAB10.cpp*",
+              "RelativeToolTip": "ALG_LAB10\\ALG_LAB10.cpp*",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAGYAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-20T11:14:52.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

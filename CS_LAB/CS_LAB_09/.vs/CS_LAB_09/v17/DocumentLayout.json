@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CS_LAB\\CS_LAB_09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6B881B-D168-456B-A08E-B52133FA3E8F}|CS_LAB_09\\CS_LAB_09.csproj|c:\\cs_lab\\cs_lab_09\\cs_lab_09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6B881B-D168-456B-A08E-B52133FA3E8F}|CS_LAB_09\\CS_LAB_09.csproj|solutionrelative:cs_lab_09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6B881B-D168-456B-A08E-B52133FA3E8F}|CS_LAB_09\\CS_LAB_09.csproj|C:\\CS_LAB\\CS_LAB_09\\cs_lab_09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC6B881B-D168-456B-A08E-B52133FA3E8F}|CS_LAB_09\\CS_LAB_09.csproj|solutionrelative:cs_lab_09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\CS_LAB\\CS_LAB_09\\CS_LAB_09\\Form1.cs",
+              "RelativeDocumentMoniker": "CS_LAB_09\\Form1.cs",
+              "ToolTip": "C:\\CS_LAB\\CS_LAB_09\\CS_LAB_09\\Form1.cs",
+              "RelativeToolTip": "CS_LAB_09\\Form1.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAA0wHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:15:28.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\CS_LAB\\CS_LAB_09\\CS_LAB_09\\Form1.cs",
+              "RelativeDocumentMoniker": "CS_LAB_09\\Form1.cs",
+              "ToolTip": "C:\\CS_LAB\\CS_LAB_09\\CS_LAB_09\\Form1.cs [Projekt]",
+              "RelativeToolTip": "CS_LAB_09\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:12:50.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

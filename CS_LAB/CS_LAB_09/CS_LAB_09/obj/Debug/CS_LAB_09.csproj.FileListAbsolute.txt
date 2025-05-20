@@ -1,0 +1,10 @@
+C:\CS_LAB\CS_LAB_09\CS_LAB_09\bin\Debug\CS_LAB_09.exe.config
+C:\CS_LAB\CS_LAB_09\CS_LAB_09\bin\Debug\CS_LAB_09.exe
+C:\CS_LAB\CS_LAB_09\CS_LAB_09\bin\Debug\CS_LAB_09.pdb
+C:\CS_LAB\CS_LAB_09\CS_LAB_09\obj\Debug\CS_LAB_09.csproj.AssemblyReference.cache
+C:\CS_LAB\CS_LAB_09\CS_LAB_09\obj\Debug\CS_LAB_09.Form1.resources
+C:\CS_LAB\CS_LAB_09\CS_LAB_09\obj\Debug\CS_LAB_09.Properties.Resources.resources
+C:\CS_LAB\CS_LAB_09\CS_LAB_09\obj\Debug\CS_LAB_09.csproj.GenerateResource.cache
+C:\CS_LAB\CS_LAB_09\CS_LAB_09\obj\Debug\CS_LAB_09.csproj.CoreCompileInputs.cache
+C:\CS_LAB\CS_LAB_09\CS_LAB_09\obj\Debug\CS_LAB_09.exe
+C:\CS_LAB\CS_LAB_09\CS_LAB_09\obj\Debug\CS_LAB_09.pdb

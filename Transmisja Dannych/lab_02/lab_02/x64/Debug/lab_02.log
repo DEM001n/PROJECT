@@ -1,0 +1,4 @@
+﻿  lab_02.cpp
+C:\Transmisja Dannych\lab_02\lab_02\lab_02.cpp(11,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\lab_02\lab_02\lab_02.cpp(164,66): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  lab_02.vcxproj -> C:\Transmisja Dannych\lab_02\x64\Debug\lab_02.exe

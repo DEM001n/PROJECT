@@ -1,0 +1,15 @@
+﻿  Lab_05_p1.cpp
+C:\Transmisja Dannych\Lab_05_p1\Lab_05_p1\Lab_05_p1.cpp(17,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\Lab_05_p1\Lab_05_p1\Lab_05_p1.cpp(78,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\Lab_05_p1\Lab_05_p1\Lab_05_p1.cpp(88,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\Lab_05_p1\Lab_05_p1\Lab_05_p1.cpp(98,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\Lab_05_p1\Lab_05_p1\Lab_05_p1.cpp(354,76): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\Lab_05_p1\Lab_05_p1\Lab_05_p1.cpp(355,76): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\Lab_05_p1\Lab_05_p1\Lab_05_p1.cpp(356,76): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\Lab_05_p1\Lab_05_p1\Lab_05_p1.cpp(358,76): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\Lab_05_p1\Lab_05_p1\Lab_05_p1.cpp(359,76): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\Lab_05_p1\Lab_05_p1\Lab_05_p1.cpp(360,76): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\Lab_05_p1\Lab_05_p1\Lab_05_p1.cpp(362,76): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\Lab_05_p1\Lab_05_p1\Lab_05_p1.cpp(363,76): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\Lab_05_p1\Lab_05_p1\Lab_05_p1.cpp(364,76): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  Lab_05_p1.vcxproj -> C:\Transmisja Dannych\Lab_05_p1\x64\Debug\Lab_05_p1.exe

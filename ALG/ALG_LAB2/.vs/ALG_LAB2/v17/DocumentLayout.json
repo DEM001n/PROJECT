@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ALG\\ALG_LAB2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{793C207D-B535-4AA6-A330-FBE6E43763C9}|ALG_LAB2\\ALG_LAB2.vcxproj|C:\\ALG\\ALG_LAB2\\ALG_LAB2\\DynamicArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{793C207D-B535-4AA6-A330-FBE6E43763C9}|ALG_LAB2\\ALG_LAB2.vcxproj|solutionrelative:ALG_LAB2\\DynamicArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793C207D-B535-4AA6-A330-FBE6E43763C9}|ALG_LAB2\\ALG_LAB2.vcxproj|C:\\ALG\\ALG_LAB2\\ALG_LAB2\\DynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{793C207D-B535-4AA6-A330-FBE6E43763C9}|ALG_LAB2\\ALG_LAB2.vcxproj|solutionrelative:ALG_LAB2\\DynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793C207D-B535-4AA6-A330-FBE6E43763C9}|ALG_LAB2\\ALG_LAB2.vcxproj|C:\\ALG\\ALG_LAB2\\ALG_LAB2\\ALG_LAB2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{793C207D-B535-4AA6-A330-FBE6E43763C9}|ALG_LAB2\\ALG_LAB2.vcxproj|solutionrelative:ALG_LAB2\\ALG_LAB2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DynamicArray.cpp",
+              "DocumentMoniker": "C:\\ALG\\ALG_LAB2\\ALG_LAB2\\DynamicArray.cpp",
+              "RelativeDocumentMoniker": "ALG_LAB2\\DynamicArray.cpp",
+              "ToolTip": "C:\\ALG\\ALG_LAB2\\ALG_LAB2\\DynamicArray.cpp",
+              "RelativeToolTip": "ALG_LAB2\\DynamicArray.cpp",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAkwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T10:25:43.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DynamicArray.h",
+              "DocumentMoniker": "C:\\ALG\\ALG_LAB2\\ALG_LAB2\\DynamicArray.h",
+              "RelativeDocumentMoniker": "ALG_LAB2\\DynamicArray.h",
+              "ToolTip": "C:\\ALG\\ALG_LAB2\\ALG_LAB2\\DynamicArray.h",
+              "RelativeToolTip": "ALG_LAB2\\DynamicArray.h",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T10:24:39.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ALG_LAB2.cpp",
+              "DocumentMoniker": "C:\\ALG\\ALG_LAB2\\ALG_LAB2\\ALG_LAB2.cpp",
+              "RelativeDocumentMoniker": "ALG_LAB2\\ALG_LAB2.cpp",
+              "ToolTip": "C:\\ALG\\ALG_LAB2\\ALG_LAB2\\ALG_LAB2.cpp",
+              "RelativeToolTip": "ALG_LAB2\\ALG_LAB2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T12:49:06.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

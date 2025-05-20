@@ -1,0 +1,5 @@
+﻿  TEST_GNU.cpp
+C:\Transmisja Dannych\TEST_GNU\TEST_GNU\TEST_GNU.cpp(70,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\TEST_GNU\TEST_GNU\TEST_GNU.cpp(80,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Transmisja Dannych\TEST_GNU\TEST_GNU\TEST_GNU.cpp(90,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  TEST_GNU.vcxproj -> C:\Transmisja Dannych\TEST_GNU\x64\Debug\TEST_GNU.exe

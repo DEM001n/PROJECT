@@ -1,0 +1,7 @@
+
+ASK:dla h =0.01, BER = 60
+ASK:dla h =0.075, BER = 0
+ASK:dla h =0.1, BER = 30
+PSK:dla h =0.1, BER = 40
+PSK:dla h =0, BER = 0
+PSK:dla h =-0.1, BER = 60
