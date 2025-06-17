@@ -1,0 +1,10 @@
+﻿  Lab_12_p2.cpp
+C:\PROJECT\Transmisja Dannych\Lab_12_p2\Lab_12_p2.cpp(284,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_12_p2\Lab_12_p2.cpp(303,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_12_p2\Lab_12_p2.cpp(319,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_12_p2\Lab_12_p2.cpp(329,20): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_12_p2\Lab_12_p2.cpp(344,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_12_p2\Lab_12_p2.cpp(354,78): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_12_p2\Lab_12_p2.cpp(354,46): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_12_p2\Lab_12_p2.cpp(377,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Lab_12_p2.vcxproj -> C:\PROJECT\Transmisja Dannych\Lab_12_p2\x64\Debug\Lab_12_p2.exe

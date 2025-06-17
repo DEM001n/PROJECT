@@ -1,0 +1,9 @@
+﻿  test.cpp
+C:\PROJECT\Transmisja Dannych\test\test.cpp(19,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\test\test.cpp(39,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\test\test.cpp(56,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\test\test.cpp(66,20): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\test\test.cpp(82,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\test\test.cpp(92,78): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\test\test.cpp(92,46): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  test.vcxproj -> C:\PROJECT\Transmisja Dannych\test\x64\Debug\test.exe

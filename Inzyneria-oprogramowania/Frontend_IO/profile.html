@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Profile</title>
+  <link rel="stylesheet" href="profile.css">
+  <script src="token-utils.js"></script>
+
+</head>
+<body>
+
+  <div class="profile-wrapper">
+  <div class="profile-box" id="profileContainer">
+  </div>
+
+  <div class="profile-actions">
+    <button class="profile-button" id="bookingHistoryBtn">Booking History</button>
+    <button class="profile-button">Favorites & Watchlist</button>
+    <button class="profile-button">Security Settings</button>
+    <button class="profile-button">My Coupons & Discounts</button>
+    <button class="profile-button">My Travel Stats</button>
+    <button class="profile-button" id="logoutBtn">Log out</button>
+    <button class="profile-button danger" id="deleteAccountBtn">Delete Account</button>
+	<div id="deleteConfirmModal" class="modal-overlay hidden">
+  <div class="modal-box">
+    <p>Are you sure you want to delete your account?</p>
+    <div class="modal-actions">
+      <button id="confirmDeleteBtn" class="profile-button danger">Yes</button>
+      <button id="cancelDeleteBtn" class="profile-button">No</button>
+    </div>
+  </div>
+</div>
+  </div>
+  <div id="employeeActions"></div>
+  <div id="partnerActions"></div>
+</div>
+
+  <script>
+  //my profile
+    const token = localStorage.getItem("token");
+
+    if (!token) {
+      document.getElementById("profileContainer").innerHTML = "<p style='color: red;'>Musisz być zalogowany.</p>";
+    } else {
+      fetch("http://localhost:5077/api/user/me", {
+        method: "GET",
+        headers: {
+          "Authorization": "Bearer " + token
+        }
+      })
+      .then(res => {
+        if (!res.ok) throw new Error("Authorization failed");
+        return res.json();
+      })
+      .then(user => {
+        const box = document.getElementById("profileContainer");
+        box.innerHTML = `
+          <div class="profile-row"><span class="label">Nickname:</span><span class="value">${user.username}</span></div>
+          <div class="profile-row"><span class="label">Name:</span><span class="value">${user.firstName}</span></div>
+          <div class="profile-row"><span class="label">Second Name:</span><span class="value">${user.lastName}</span></div>
+          <div class="profile-row"><span class="label">Email:</span><span class="value">${user.email}</span></div>
+          <div class="profile-row"><span class="label">Role:</span><span class="value">${user.role}</span></div>
+        `;
+      })
+      .catch(err => {
+        document.getElementById("profileContainer").innerHTML = `<p style='color: red;'>Błąd: ${err.message}</p>`;
+      });
+    }
+  </script>
+  
+  <script>
+  //go to bookings
+  document.getElementById("bookingHistoryBtn").addEventListener("click", () => {
+    window.location.href = "bookings.html";
+  });
+</script>
+  
+  <script>
+  //log out
+  document.getElementById("logoutBtn").addEventListener("click", () => {
+    localStorage.removeItem("token");      // Удаляем токен
+    window.location.href = "main-page.html"; // Перенаправляем
+  });
+</script>
+
+<script>
+// delete user
+document.addEventListener("DOMContentLoaded", () => {
+  const token = localStorage.getItem("token");
+
+  const deleteBtn = document.getElementById("deleteAccountBtn");
+  const modal = document.getElementById("deleteConfirmModal");
+  const confirmBtn = document.getElementById("confirmDeleteBtn");
+  const cancelBtn = document.getElementById("cancelDeleteBtn");
+
+  deleteBtn?.addEventListener("click", () => {
+    modal.classList.remove("hidden");
+  });
+
+  cancelBtn?.addEventListener("click", () => {
+    modal.classList.add("hidden");
+  });
+
+  confirmBtn?.addEventListener("click", async () => {
+    try {
+      const response = await fetch("http://localhost:5077/api/user/delete-account", {
+        method: "DELETE",
+        headers: {
+          "Authorization": `Bearer ${token}`
+        }
+      });
+
+      if (response.ok) {
+        localStorage.removeItem("token");
+        window.location.href = "main-page.html";
+      } else {
+        const error = await response.text();
+        alert("Error: " + error);
+      }
+    } catch (err) {
+      alert("Something went wrong.");
+    }
+  });
+});
+</script>
+
+
+
+  
+<script>
+  //buttons for employee
+  document.addEventListener("DOMContentLoaded", () => {
+    const role = getRoleFromToken();
+
+    if (role === "Employee") {
+      const container = document.getElementById("employeeActions");
+
+      // heading
+      const heading = document.createElement("p");
+      heading.textContent = "Actions for employees";
+      heading.style.fontWeight = "bold";
+      heading.style.marginTop = "20px";
+      heading.style.marginBottom = "10px";
+      heading.style.color = "#001d4a";
+      container.appendChild(heading);
+
+      // Button 1: Search User
+      const searchBtn = document.createElement("button");
+      searchBtn.textContent = "Search User";
+      searchBtn.className = "profile-button-extra";
+      searchBtn.onclick = () => {
+        window.location.href = "search-user.html";
+      };
+      container.appendChild(searchBtn);
+
+      // Button 2: Search Bookings
+      const searchBookingBtn = document.createElement("button");
+      searchBookingBtn.textContent = "Search Bookings";
+      searchBookingBtn.className = "profile-button-extra";
+      searchBookingBtn.onclick = () => {
+        window.location.href = "search-booking.html";
+      };
+      container.appendChild(searchBookingBtn);
+
+      // Button 3: Create Flight
+      const createFlight = document.createElement("button");
+      createFlight.textContent = "Create Flight";
+      createFlight.className = "profile-button-extra";
+      createFlight.onclick = () => {
+        window.location.href = "create-flight.html";
+      };
+      container.appendChild(createFlight);
+	  
+	  // Button 4: Delete Flight
+      const deleteFlight = document.createElement("button");
+      deleteFlight.textContent = "Delete Flight";
+      deleteFlight.className = "profile-button-extra";
+      deleteFlight.onclick = () => {
+        window.location.href = "delete-flight.html";
+      };
+      container.appendChild(deleteFlight);
+	  
+    }
+  });
+</script>
+
+<script>
+  //buttons for partner
+  document.addEventListener("DOMContentLoaded", () => {
+    const role = getRoleFromToken();
+
+    if (role === "Partner") {
+      const container = document.getElementById("partnerActions");
+
+      // heading
+      const heading = document.createElement("p");
+      heading.textContent = "Actions for partners";
+      heading.style.fontWeight = "bold";
+      heading.style.marginTop = "20px";
+      heading.style.marginBottom = "10px";
+      heading.style.color = "#001d4a";
+      container.appendChild(heading);
+
+      // Button 1: Search User
+      const searchBtn = document.createElement("button");
+      searchBtn.textContent = "Booking Stats";
+      searchBtn.className = "profile-button-extra";
+      searchBtn.onclick = () => {
+        window.location.href = "booking-stats.html";
+      };
+      container.appendChild(searchBtn);
+
+      // Button 2: Create Flight
+      const createFlight = document.createElement("button");
+      createFlight.textContent = "Create Flight";
+      createFlight.className = "profile-button-extra";
+      createFlight.onclick = () => {
+        window.location.href = "create-flight.html";
+      };
+      container.appendChild(createFlight);
+	  
+	  // Button 3: Delete Flight
+      const deleteFlight = document.createElement("button");
+      deleteFlight.textContent = "Delete Flight";
+      deleteFlight.className = "profile-button-extra";
+      deleteFlight.onclick = () => {
+        window.location.href = "delete-flight.html";
+      };
+      container.appendChild(deleteFlight);
+	  
+    }
+  });
+</script>
+
+
+</body>
+</html>

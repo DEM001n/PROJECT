@@ -1,0 +1,15 @@
+﻿  Lab_13.cpp
+C:\PROJECT\Transmisja Dannych\Lab_13_p2\Lab_13.cpp(284,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_13_p2\Lab_13.cpp(303,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_13_p2\Lab_13.cpp(319,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_13_p2\Lab_13.cpp(329,20): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_13_p2\Lab_13.cpp(344,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_13_p2\Lab_13.cpp(354,78): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_13_p2\Lab_13.cpp(354,46): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_13_p2\Lab_13.cpp(414,70): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_13_p2\Lab_13.cpp(431,71): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_13_p2\Lab_13.cpp(448,70): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_13_p2\Lab_13.cpp(478,70): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_13_p2\Lab_13.cpp(495,70): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\PROJECT\Transmisja Dannych\Lab_13_p2\Lab_13.cpp(512,71): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Lab_13.vcxproj -> C:\PROJECT\Transmisja Dannych\Lab_13_p2\x64\Debug\Lab_13.exe

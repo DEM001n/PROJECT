@@ -6,7 +6,7 @@ import scipy.fftpack
 from scipy.signal import find_peaks
 
 def zad1():
-    s, fs = sf.read('audio2.wav', dtype='float32')
+    s, fs = sf.read('audio.wav', dtype='float32')
 
     czas_trwania = len(s) / fs
     kanaly = 1 if s.ndim == 1 else s.shape[1]
@@ -99,24 +99,50 @@ def zad2(s, fs, ramka_ms=10, nakladanie=0.0):
     plt.show()
 
 def zad3(s, fs):
-    start_time = 2.2
+    start_time = 0.29
+
     start_sample = int(start_time * fs)
     fragment = s[start_sample:start_sample + 2048]
 
-    yf = scipy.fftpack.fft(fragment)
-    N = len(yf)
+    N = len(fragment)
+    t = np.linspace(0, N / fs, N) * 1000
+
+    hamming = np.hamming(N)
+    fragment_okno = fragment * hamming
+
+    yf = scipy.fftpack.fft(fragment_okno)
     mag = np.abs(yf[:N // 2])
     mag_db = np.log10(mag + 1e-12)
-
     freqs = np.linspace(0, fs / 2, N // 2)
 
-    plt.figure(figsize=(10, 4))
-    plt.plot(freqs, mag_db)
-    plt.title("Logarytmiczne widmo amplitudowe")
-    plt.xlabel("Częstotliwość [Hz]")
-    plt.ylabel("Amplituda [dB]")
-    plt.xlim(0, 10000)
-    plt.grid(True)
+    fig, axs = plt.subplots(2, 3, figsize=(12, 8))
+
+    axs[0, 0].plot(t, fragment)
+    axs[0, 0].set_title("Fragment sygnału")
+    axs[0, 0].set_xlabel("Czas [ms]")
+    axs[0, 0].set_ylabel("Amplituda")
+    axs[0, 0].grid(True)
+
+    axs[0, 1].plot(hamming)
+    axs[0, 1].set_title("Okno Hamminga")
+    axs[0, 1].set_xlabel("Próbka")
+    axs[0, 1].set_ylabel("Wartość")
+    axs[0, 1].grid(True)
+
+    axs[0, 2].plot(t, fragment_okno)
+    axs[0, 2].set_title("Sygnał po oknie (W * H)")
+    axs[0, 2].set_xlabel("Czas [ms]")
+    axs[0, 2].set_ylabel("Amplituda")
+    axs[0, 2].grid(True)
+
+    ax_widmo = fig.add_subplot(2, 1, 2)
+    ax_widmo.plot(freqs, mag_db)
+    ax_widmo.set_title("Logarytmiczne widmo amplitudowe")
+    ax_widmo.set_xlabel("Częstotliwość [Hz]")
+    ax_widmo.set_ylabel("Amplituda [dB]")
+    ax_widmo.set_xlim(0, 10000)
+    ax_widmo.grid(True)
+
     plt.tight_layout()
     plt.show()
 
@@ -127,7 +153,7 @@ def zad3(s, fs):
     else:
         print("Nie wykryto wyraźnej częstotliwości F0.")
 
-    return fragment
+    return fragment_okno
 
 def find_peaks_custom(spectrum):
     indeksy_pikow = []
@@ -138,6 +164,7 @@ def find_peaks_custom(spectrum):
             indeksy_pikow.append(i)
 
     return indeksy_pikow
+
 def rozpoznaj_samogloske(F1, F2):
     samogloski = {
         "a": (800, 1300),
@@ -161,11 +188,6 @@ def rozpoznaj_samogloske(F1, F2):
 def zad4(fs, okno):
     a = librosa.lpc(okno, order=20)
 
-    '''
-    Liniowe Kodowanie Predykcyjne (LPC) modeluje widmo mowy poprzez predykcję próbki sygnału na podstawie poprzednich.
-    Umożliwia wygładzenie widma i wyznaczanie formantów charakterystycznych dla samogłosek.
-    '''
-
     a_padded = np.concatenate([a, np.zeros(2048 - len(a))])
 
     widmo_LPC = -np.log10(np.abs(scipy.fftpack.fft(a_padded)) + 1e-12)
@@ -187,7 +209,6 @@ def zad4(fs, okno):
     plt.tight_layout()
     plt.show()
 
-    #peaks = find_peaks_custom(widmo_LPC[:N // 2])
     peaks, _ = find_peaks(widmo_LPC[:N // 2], distance=20)
     formanty_freq = freqs[peaks]
     formanty_freq = formanty_freq[formanty_freq < 6000]
@@ -202,12 +223,14 @@ def zad4(fs, okno):
 
 if __name__ == '__main__':
     zad1_data, fs = zad1()
+
     '''
     for ramka_ms in [5 ,10 ,20, 50]:
         zad2(zad1_data, fs, ramka_ms=ramka_ms)
-      '''
     zad2(zad1_data, fs, ramka_ms=10, nakladanie=0.5)
+    '''
 
     okno = zad3(zad1_data, fs)
 
     zad4(fs, okno)
+

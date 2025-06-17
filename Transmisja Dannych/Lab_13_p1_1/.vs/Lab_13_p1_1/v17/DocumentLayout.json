@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROJECT\\Transmisja Dannych\\Lab_13_p1_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{579E0859-2AA8-4525-A8BF-1E6E4F9EA190}|Lab_13_p1_1.vcxproj|C:\\PROJECT\\Transmisja Dannych\\Lab_13_p1_1\\Lab_13_p1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{579E0859-2AA8-4525-A8BF-1E6E4F9EA190}|Lab_13_p1_1.vcxproj|solutionrelative:Lab_13_p1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_13_p1_1.cpp",
+              "DocumentMoniker": "C:\\PROJECT\\Transmisja Dannych\\Lab_13_p1_1\\Lab_13_p1_1.cpp",
+              "RelativeDocumentMoniker": "Lab_13_p1_1.cpp",
+              "ToolTip": "C:\\PROJECT\\Transmisja Dannych\\Lab_13_p1_1\\Lab_13_p1_1.cpp",
+              "RelativeToolTip": "Lab_13_p1_1.cpp",
+              "ViewState": "AgIAAI0BAAAAAAAAAAAAALABAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T16:35:51.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
