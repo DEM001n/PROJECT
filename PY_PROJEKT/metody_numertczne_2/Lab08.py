@@ -165,7 +165,8 @@ def solve_linear_program(A, B, Z, F,maximize=True):
 
 
 if __name__ == '__main__':
-    A = np.array([
+
+    ''' A = np.array([
         [1, 1],
         [1, 0],
         [0, 1],
@@ -180,6 +181,24 @@ if __name__ == '__main__':
     #(-1: ≤, 1: ≥)
     Z = np.array([-1, 1, 1, -1, -1, 1, 1])
 
-    F = np.array([1, 1])
+    F = np.array([1, 1])'''
 
-    solve_linear_program(A, B, Z, F)
+    A = np.array([
+        [1, 1],  # x + y ≥ 4
+        [2, 1],  # 2x + y ≥ 6
+        [1, 0],  # x ≤ 5
+        [0, 1],  # y ≤ 4
+        [1, 0],  # x ≥ 0
+        [0, 1]  # y ≥ 0
+    ])
+
+    # b) Wektor wyrazów wolnych
+    B = np.array([4, 6, 5, 4, 0, 0])
+
+    # c) Typy ograniczeń (-1: ≤, 1: ≥)
+    Z = np.array([1, 1, -1, -1, 1, 1])
+
+    # d) Wektor funkcji celu (Z = x + 2y)
+    F = np.array([1, 2])
+
+    solve_linear_program(A, B, Z, F,True)

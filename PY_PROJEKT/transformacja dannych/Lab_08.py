@@ -228,5 +228,5 @@ def zad2():
         print(f"{k:2d} | {mse:.4f}")
 
 if __name__ == "__main__":
-    #zad1()
+    zad1()
     zad2()
