@@ -1,1 +1,3 @@
 # PROJECT
+
+**Własność: Dmytra Mahaliuka**
