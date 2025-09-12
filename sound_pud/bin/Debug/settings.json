@@ -1,0 +1,13 @@
+[
+  {
+    "SoundConfig": {
+      "FilePath": "a.wav",
+      "Volume": 0.29,
+      "MinPlayInterval": 0.11,
+      "Loop": true
+    },
+    "Keys": [
+      -13
+    ]
+  }
+]

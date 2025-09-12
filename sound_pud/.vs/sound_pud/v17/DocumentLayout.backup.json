@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROJECT\\sound_pud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|c:\\project\\sound_pud\\configform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|solutionrelative:configform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|C:\\PROJECT\\sound_pud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|c:\\project\\sound_pud\\soundplayermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|solutionrelative:soundplayermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|c:\\project\\sound_pud\\configform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|solutionrelative:configform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|c:\\project\\sound_pud\\keycaptureform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|solutionrelative:keycaptureform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|C:\\PROJECT\\sound_pud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|c:\\project\\sound_pud\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|solutionrelative:settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|c:\\project\\sound_pud\\globalinputlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|solutionrelative:globalinputlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|c:\\project\\sound_pud\\keycaptureform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|solutionrelative:keycaptureform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|c:\\project\\sound_pud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F5FD5A-03D2-49CE-A623-2559EDE5DE7D}|sound_pud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsManager.cs",
+              "DocumentMoniker": "C:\\PROJECT\\sound_pud\\SettingsManager.cs",
+              "RelativeDocumentMoniker": "SettingsManager.cs",
+              "ToolTip": "C:\\PROJECT\\sound_pud\\SettingsManager.cs",
+              "RelativeToolTip": "SettingsManager.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswDoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T06:03:02.268Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\PROJECT\\sound_pud\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\PROJECT\\sound_pud\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:41:10.303Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigForm.cs",
+              "DocumentMoniker": "C:\\PROJECT\\sound_pud\\ConfigForm.cs",
+              "RelativeDocumentMoniker": "ConfigForm.cs",
+              "ToolTip": "C:\\PROJECT\\sound_pud\\ConfigForm.cs*",
+              "RelativeToolTip": "ConfigForm.cs*",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:21:34.292Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KeyCaptureForm .cs",
+              "DocumentMoniker": "C:\\PROJECT\\sound_pud\\KeyCaptureForm .cs",
+              "RelativeDocumentMoniker": "KeyCaptureForm .cs",
+              "ToolTip": "C:\\PROJECT\\sound_pud\\KeyCaptureForm .cs",
+              "RelativeToolTip": "KeyCaptureForm .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T13:06:41.882Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\PROJECT\\sound_pud\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\PROJECT\\sound_pud\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:26:57.246Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoundPlayerManager.cs",
+              "DocumentMoniker": "C:\\PROJECT\\sound_pud\\SoundPlayerManager.cs",
+              "RelativeDocumentMoniker": "SoundPlayerManager.cs",
+              "ToolTip": "C:\\PROJECT\\sound_pud\\SoundPlayerManager.cs",
+              "RelativeToolTip": "SoundPlayerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:37:35.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\PROJECT\\sound_pud\\ConfigForm.cs",
+              "RelativeDocumentMoniker": "ConfigForm.cs",
+              "ToolTip": "C:\\PROJECT\\sound_pud\\ConfigForm.cs [Projekt]*",
+              "RelativeToolTip": "ConfigForm.cs [Projekt]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:12:35.149Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KeyCaptureForm .cs [Projekt]",
+              "DocumentMoniker": "C:\\PROJECT\\sound_pud\\KeyCaptureForm .cs",
+              "RelativeDocumentMoniker": "KeyCaptureForm .cs",
+              "ToolTip": "C:\\PROJECT\\sound_pud\\KeyCaptureForm .cs [Projekt]",
+              "RelativeToolTip": "KeyCaptureForm .cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T13:02:23.094Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalInputListener.cs",
+              "DocumentMoniker": "C:\\PROJECT\\sound_pud\\GlobalInputListener.cs",
+              "RelativeDocumentMoniker": "GlobalInputListener.cs",
+              "ToolTip": "C:\\PROJECT\\sound_pud\\GlobalInputListener.cs",
+              "RelativeToolTip": "GlobalInputListener.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T13:03:58.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PROJECT\\sound_pud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\PROJECT\\sound_pud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:48:29.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
