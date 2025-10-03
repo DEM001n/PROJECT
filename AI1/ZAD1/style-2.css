@@ -1,0 +1,172 @@
+body {
+    font-family: "Segoe UI", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    color: #000000;
+    line-height: 1.6;
+
+    display: flex;
+    flex-direction: row; /* header po lewej, main po prawej */
+    min-height: 100vh;
+}
+
+/* --- Header --- */
+header {
+    background-image: url('a2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    flex: 0 0 40%;        /* zajmuje 40% szerokości strony, nie rozszerza się */
+    min-height: 100vh;    /* header na całą wysokość ekranu */
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 0;  
+    color: #ffffff;    
+}
+
+/* --- Main Layout --- */
+main {
+    flex: 1; 
+    display: flex;
+    flex-direction: column; /* pionowo: bloki + footer */
+    gap: 1.5rem;
+    padding: 2rem;
+}
+
+/* Każdy blok */
+.blok {
+    display: grid;
+    grid-template-columns: 200px 1fr; /* H2 po lewej, reszta po prawej */
+    align-items: start;
+    background: #1664a8;
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+/* H2 zawsze po lewej kolumnie */
+.blok h2 {
+    grid-column: 1;
+    color: #ffffff;
+    margin: 0;
+}
+
+/* H3 i paragrafy w prawej kolumnie */
+.blok h3, .blok p {
+    grid-column: 2;
+    color: #ffffff;
+    margin: 0.5rem 0;
+
+}
+
+.lista h3{
+    color: #1664a8;
+}
+
+
+/* --- Lista + obrazek --- */
+.lista-obrazek {
+    display: grid;
+    grid-template-columns: 1fr 2fr; /* lista 1/3, obrazek 2/3 */
+    grid-template-areas: "lista obrazek"; /* definiujemy, która kolumna co zawiera */
+    gap: 2rem;
+    margin-top: 2rem;
+    width: 100%;
+}
+
+.lista {
+    grid-area: lista;  /* przypisanie do lewej kolumny */
+    text-align: left;
+
+}
+
+.obrazek {
+    grid-area: obrazek; /* przypisanie do prawej kolumny */
+}
+
+.obrazek img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.lista ul {
+    list-style-type: circle;
+    padding-left: 1.5rem;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+}
+
+footer {
+    margin-top: auto; 
+    text-align: center;
+    color: #1664a8;
+
+    writing-mode: vertical-rl; /* pionowo z dołu w górę po prawej */
+    text-orientation: upright;  /* każdy znak wyprostowany */
+
+    width: 50px;     /* ograniczamy szerokość stopki */
+    min-height: 150px; /* minimalna wysokość dla czytelności */
+    border-radius: 5px;        /* opcjonalnie zaokrąglenie narożników */
+}
+
+
+@media (max-width: 950px) {
+    body {
+        flex-direction: column;
+    }
+
+    main {
+        grid-template-columns: 1fr; 
+    }
+
+    header {
+        min-height: 50vh;
+    }
+
+    /* Blok lista-obrazek pod sobą */
+    .lista-obrazek {
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "lista"    
+            "obrazek";
+        gap: 1rem;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    /* Wycentrowanie listy */
+    .lista {
+        text-align: center;      /* tekst wycentrowany */
+        justify-self: center;    /* wycentrowanie w gridzie */
+    }
+
+    .lista ul {
+        display: flex;
+        flex-direction: column;
+        padding-left: 0;         /* usuwa wcięcie */
+        align-items: center;     /* wycentrowanie elementów listy */
+        margin: 0;
+    }
+
+    /* footer poziomo */
+    footer {
+        writing-mode: horizontal-tb;
+        text-orientation: mixed;
+        width: 100%;
+        min-height: auto;
+        padding: 1rem 0;
+    }
+
+}
